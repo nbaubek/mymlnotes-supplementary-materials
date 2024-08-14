@@ -1,0 +1,5 @@
+python-visualizations/data/Diamonds filter=lfs diff=lfs merge=lfs -text
+Prices2022.csv filter=lfs diff=lfs merge=lfs -text
+python-visualizations/data/HotelCustomersDataset.xlsx filter=lfs diff=lfs merge=lfs -text
+python-visualizations/data/housing_data.csv filter=lfs diff=lfs merge=lfs -text
+python-visualizations/data/car_prices.csv filter=lfs diff=lfs merge=lfs -text

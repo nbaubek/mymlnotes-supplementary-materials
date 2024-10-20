@@ -9,6 +9,9 @@ readme = "README.md"
 python = "^3.13"
 dash = "^2.18.1"
 solara = "^1.40.0"
+panel = "^1.5.2"
+watchfiles = "^0.24.0"
+reflex = "^0.6.3"
 
 
 [build-system]
